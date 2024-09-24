@@ -6,6 +6,6 @@ my progress so far;
 
 ![image](https://github.com/user-attachments/assets/29bbadf5-be08-4fbf-a19e-f37ea1a9111f)
 
-![image](https://github.com/user-attachments/assets/611f8b93-4857-4415-9e66-d64c180a6a5b)
+![image](https://github.com/user-attachments/assets/6c925e8e-e00f-4064-8944-e9095463df35)
 
-![image](https://github.com/user-attachments/assets/1d12b8bd-b446-4828-976c-a8cad03c5021)
+![image](https://github.com/user-attachments/assets/33b0126c-9c92-4f05-b74c-99471bbd5454)
