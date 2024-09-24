@@ -7,3 +7,79 @@ body{
     height: 100vh;
     margin: 0;
 }
+
+#wrapper{
+    width: 100%;
+    max-width: 400px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 10px 10px 10px rgba(0,0,0,0.1);
+}
+
+#header{
+    margin-left: 10px;
+    margin-bottom: -10px;
+}
+
+#content{
+    margin-left: 10px;
+    margin-bottom: 30px;
+    font-weight: normal;
+}
+
+#register{
+    padding: auto;
+    margin: 10px;
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    height: 50px; 
+    padding: 10px; 
+    font-size: 16px;
+    margin-bottom: 10px; 
+    box-sizing: border-box; 
+    border-radius: 5px
+}
+
+#psw {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+}
+
+#cpsw {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+}
+
+#eye1 {
+    position: absolute;
+    margin-left: -35px;
+    margin-top: -45px;
+    cursor: pointer;
+}
+
+#eye2 {
+    position: absolute;
+    margin-left: -35px;
+    margin-top: 17.5px;
+    cursor: pointer;
+}
+
+input[type="submit"] {
+    width: 75%;
+    height: 50px; 
+    padding: 10px; 
+    font-size: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px; 
+    box-sizing: border-box; 
+    border-radius: 100px;
+    background-color: #1c6ec5;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
