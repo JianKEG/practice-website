@@ -10,7 +10,7 @@ body{
 
 #wrapper{
     width: 100%;
-    max-width: 400px;
+    max-width: 435px;
     background: #fff;
     padding: 20px;
     border-radius: 20px;
@@ -82,4 +82,39 @@ input[type="submit"] {
     color: #fff;
     border: none;
     cursor: pointer;
+}
+
+#message {
+    display: none;
+    background: #f1f1f1;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 20px
+}
+
+#message p {
+    padding: 10px 35px;
+    font-size: 18px;
+}
+
+.valid {
+    color: green;
+}
+
+.valid:before {
+    position: relative;
+    left: -35px;
+    content: "✔";
+}
+
+.invalid {
+    color: red;
+}
+
+.invalid::before {
+    position: relative;
+    left: -35px;
+    content: "✖";
 }
