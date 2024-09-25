@@ -100,7 +100,11 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #155799;
+    background-color: hsl(211, 75%, 40%);
+}
+
+input[type="submit"]:active {
+    background-color: hsl(211, 75%, 35%);
 }
 
 #footer {
