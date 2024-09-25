@@ -56,6 +56,10 @@ input[type="text"], input[type="password"] {
     cursor: pointer;
 }
 
+#eye:hover{
+    color: #1c6ec5;
+}
+
 #links{
     margin-left: 12px;
     margin-top: 10px;
@@ -80,4 +84,8 @@ input[type="submit"] {
     color: #fff;
     border: none;
     cursor: pointer;
-} 
+}
+
+input[type="submit"]:hover {
+    background-color: #155799;
+}
