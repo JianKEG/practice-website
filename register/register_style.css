@@ -103,6 +103,13 @@ input[type="submit"]:hover {
     background-color: #1f65af;
 }
 
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
 #message {
     display: none;
     background: #f1f1f1;
