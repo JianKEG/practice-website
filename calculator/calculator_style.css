@@ -24,6 +24,9 @@ body{
     background-color: hsl(0, 0%, 15%);
     color: white;
     border-radius: 15px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    direction: rtl;
 }
 
 button{
