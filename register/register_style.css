@@ -62,10 +62,25 @@ input[type="email"], input[type="text"], input[type="password"] {
     cursor: pointer;
 }
 
+#eye1:hover {
+    color: #1c6ec5;
+}
+
 #eye2 {
     position: absolute;
     margin-left: -35px;
     margin-top: 17.5px;
+    cursor: pointer;
+}
+
+#eye2:hover {
+    color: #1c6ec5;
+}
+
+#terms {
+    margin-top: -5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
     cursor: pointer;
 }
 
@@ -82,6 +97,10 @@ input[type="submit"] {
     color: #fff;
     border: none;
     cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #1f65af;
 }
 
 #message {
