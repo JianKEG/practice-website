@@ -19,14 +19,11 @@ body{
     width: 100%;
     padding: 0px;
     font-size: 5rem;
-    text-align: right;
+    text-align: left;
     border: none;
     background-color: hsl(0, 0%, 15%);
     color: white;
     border-radius: 15px;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    direction: rtl;
 }
 
 button{
