@@ -52,3 +52,15 @@ button:active{
     gap: 10px;
     padding: 25px;
 }
+
+.oprtr{
+    background-color: hsl(25, 100%, 50%);
+}
+
+.oprtr:hover{
+    background-color: hsl(25, 100%, 60%);
+}
+
+.oprtr:active{
+    background-color: hsl(25, 100%, 70%);
+}
